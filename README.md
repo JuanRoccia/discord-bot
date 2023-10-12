@@ -1,4 +1,4 @@
 # discord-bot
-Discord bot desarrollado con Replit - freeCodeCamp tutorial
+Discord bot desarrollado con Replit 
 
-[Link](https://www.freecodecamp.org/news/create-a-discord-bot-with-python/)
+freeCodeCamp: [tutorial](https://www.freecodecamp.org/news/create-a-discord-bot-with-python/)
